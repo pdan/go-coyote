@@ -1,0 +1,16 @@
+{
+  "checkTime": 800,
+  "clientAPI": "a48680c4b36s48526cdm8f606bb25761c10a6",
+  "clientEmail": "coyote@example.com",
+  "ipServer": "http://echoip.com",
+  "zones": [{
+    "name": "example.com",
+    "records": [{
+      "name": "first.example.com"
+    }, {
+      "name": "second.example.com"
+    }, {
+      "name": "third.example.com"
+    }]
+  }]
+}
