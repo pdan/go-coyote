@@ -3,8 +3,8 @@ package main
 import (
 	"time"
 
-	"coyote/cloudflare"
-	"coyote/setting"
+	"github.com/pdan/go-coyote/cloudflare"
+	"github.com/pdan/go-coyote/setting"
 )
 
 func main() {

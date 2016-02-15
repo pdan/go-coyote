@@ -11,7 +11,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"coyote/setting"
+	"github.com/pdan/go-coyote/setting"
 )
 
 type Client struct {
